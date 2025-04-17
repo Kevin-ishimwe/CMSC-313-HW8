@@ -5,6 +5,9 @@
 - CMSC 313, 8:30 AM Section ( Mon - Wed )
 - UMBC
 ---
+![Matrix Operations GIF](ScreenRecording2025-04-16at20.04.49-ezgif.com-speed.gif)
+
+
 ## PURPOSE OF SOFTWARE
 The C and C++ code implement matrix library operations. The goal of the code is to see the differences between the procedural programming approach (C) and the OOP (C++).
 
